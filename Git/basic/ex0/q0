@@ -1,1 +1,6 @@
-q0 : <본인 이름>.txt 파일을 만들고 add, commit, push를 해보자.
+q0 :
+git branch basic/ex0-본인id
+git checkout basic/ex0-본인id
+본인 이름으로 브랜치를 새로 생성하고 <본인이름>.txt 파일을 만들어서 커밋해보자.
+
+다음 문제는 basic/ex1 브랜치로!
